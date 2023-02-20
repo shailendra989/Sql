@@ -1,0 +1,6 @@
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\bin\Debug\SqlSequel.dacpac
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\bin\Debug\SqlSequel.dll
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\bin\Debug\SqlSequel.pdb
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\obj\Debug\SqlSequel.sqlproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\obj\Debug\SqlSequel.dll
+C:\Users\91790\Desktop\dotnet\SqlSequel\SqlSequel\obj\Debug\SqlSequel.pdb
